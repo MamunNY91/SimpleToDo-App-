@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/k76D9MV' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
+![a1](https://user-images.githubusercontent.com/16640036/49275814-8b805200-f44a-11e8-9e30-fcd40ff3314f.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
